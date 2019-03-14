@@ -1,2 +1,2 @@
 # Todo-django
-To do sight in django
+To do site in django
